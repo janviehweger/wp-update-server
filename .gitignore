@@ -1,2 +1,4 @@
-packages/*.zip
+packages/*
 cache/*.txt
+logs/*
+!logs/.htaccess
